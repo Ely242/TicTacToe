@@ -19,7 +19,7 @@ Welcome to the TicTacToe GUI game! This game allows two players to compete in a 
 ## Installation
 1. **Clone the Repository**: Clone this repository to your local machine using:
     ```sh
-    git clone https://github.com/yourusername/TicTacToe.git
+    git clone https://github.com/Ely242/TicTacToe.git
     ```
 2. **Compile the Code**: Navigate to the project directory and compile the Java code using:
     ```sh
